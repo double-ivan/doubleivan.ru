@@ -2,7 +2,7 @@
 title: Два Ивана №13 Engineering Practices at Scale
 date: 2023-08-08T16:00:00+00:00
 summary: "Два Ивана расспрашивают Антона Огородникова, какие инженерные практики применяются в больших командах"
-image: "https://mavecloud.s3mts.ru/storage/podcasts/1af59247-7ac1-4d1c-b4f1-fd950f3daf15/images/8aaf17e7-04b8-4ddc-8406-0d32d2c1c9e1.jpg"
+image: "https://ru-msk-dr3-1.store.cloud.mts.ru/mave/storage/podcasts/1af59247-7ac1-4d1c-b4f1-fd950f3daf15/images/8aaf17e7-04b8-4ddc-8406-0d32d2c1c9e1.jpg"
 mp3: "https://api.mave.digital/storage/podcasts/1af59247-7ac1-4d1c-b4f1-fd950f3daf15/episodes/8aaf17e7-04b8-4ddc-8406-0d32d2c1c9e1.mp3"
 length: 52223057
 season: 1
@@ -31,5 +31,3 @@ timecodes:
 ---
 
 В этом выпуске в гостях у Двух Иванов наш старый знакомый, некогда островитянин, [Антон Огородников](https://github.com/arxell), руководитель департамента разработки онлайн-платформы [Магнит](https://github.com/magnit-tech/magnit-online). Мы расспросили Антона про инженерные практики и то, как они применяются в больших командах.
-
- 

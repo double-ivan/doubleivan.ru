@@ -2,7 +2,7 @@
 title: Два Ивана №20 Компании, репозитории и проекты, которые живут за счет одного человека
 date: 2023-12-22T08:00:00+00:00
 summary: "Два Ивана рассказывают жизненные истории из мира Open Source"
-image: "https://mavecloud.s3mts.ru/storage/podcasts/1af59247-7ac1-4d1c-b4f1-fd950f3daf15/images/c66fda66-458c-499b-82cc-a50350c9a3de.jpg"
+image: "https://ru-msk-dr3-1.store.cloud.mts.ru/mave/storage/podcasts/1af59247-7ac1-4d1c-b4f1-fd950f3daf15/images/c66fda66-458c-499b-82cc-a50350c9a3de.jpg"
 mp3: "https://api.mave.digital/storage/podcasts/1af59247-7ac1-4d1c-b4f1-fd950f3daf15/episodes/c66fda66-458c-499b-82cc-a50350c9a3de.mp3"
 length: 37449918
 season: 1
@@ -24,7 +24,6 @@ timecodes:
   - data: ["00:28:49.368", "null-ls"]
   - data: ["00:31:44.284", "Cypress"]
   - data: ["00:34:40.997", "Совместимость технологий"]
-
 ---
 
 Вы когда-нибудь задумывались, как у некоторых авторов известных проектов получается всё успевать? Все ли авторы успешны? Как они на своих проектах зарабывают? В этом выпуске Два Ивана обсуждают несколько историй таких людей и пробуют ответить на эти вопросы.
@@ -37,4 +36,3 @@ timecodes:
 - [Sorry cypress](https://t.me/valya_reads_issue/337)
 - [Sequoia дала денег pydantic](https://techcrunch.com/2023/02/16/sequoia-backs-open-source-data-validation-framework-pydantic-to-commercialize-with-cloud-services/)
 - [Astral, компания выросшая из Ruff](https://astral.sh/blog/announcing-astral-the-company-behind-ruff)
-
