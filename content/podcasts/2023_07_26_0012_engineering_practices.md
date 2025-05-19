@@ -2,7 +2,7 @@
 title: Два Ивана №12 Engineering Practices
 date: 2023-07-26T16:00:00+00:00
 summary: "Два Ивана обсуждают инженерные практики, которые применяют на ежедневной основе"
-image: "https://mavecloud.s3mts.ru/storage/podcasts/1af59247-7ac1-4d1c-b4f1-fd950f3daf15/images/8facd6fa-2747-4fbc-b833-0d75fc206662.jpg"
+image: "https://ru-msk-dr3-1.store.cloud.mts.ru/mave/storage/podcasts/1af59247-7ac1-4d1c-b4f1-fd950f3daf15/images/8facd6fa-2747-4fbc-b833-0d75fc206662.jpg"
 mp3: "https://api.mave.digital/storage/podcasts/1af59247-7ac1-4d1c-b4f1-fd950f3daf15/episodes/8facd6fa-2747-4fbc-b833-0d75fc206662.mp3"
 length: 46845323
 season: 1
@@ -30,5 +30,3 @@ timecodes:
 ---
 
 Два Ивана решили поговорить, какие инженерные практики применяют на ежедневной основе. Рассуждаем о том, что помогает в работе, а что мешает. На что направлены основные практики при разработке, и почему стоит экспериментировать с ними. Практик в индустрии уже накопилось достаточное количество, поэтому мы обязательно вернёмся ещё раз с подобным выпуском.
-
- 
