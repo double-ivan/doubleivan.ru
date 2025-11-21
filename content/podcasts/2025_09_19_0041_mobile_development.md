@@ -1,7 +1,7 @@
 ---
 title: "Два Ивана №41 Про мобильную разработку с Вовой Теблоевым"
 date: 2025-09-19T06:00:00+00:00
-summary: "В новом выпуске два Ивана вместе с Вовой Теблоевым обсуждают современные и не очень тренды в мобильной разработке"
+summary: "Тренды в мобильной разработке с Вовой Теблоевым. Корпоративная культура, команды и влияние LLM на мобильные приложения."
 image: "https://ru-msk-dr3-1.store.cloud.mts.ru/mave/storage/podcasts/1af59247-7ac1-4d1c-b4f1-fd950f3daf15/images/e1ffbd99-be49-45f1-bc32-e36cd1ad6ecc.jpg"
 mp3: "https://ru-msk-dr3-1.store.cloud.mts.ru/mave/storage/podcasts/1af59247-7ac1-4d1c-b4f1-fd950f3daf15/episodes/e1ffbd99-be49-45f1-bc32-e36cd1ad6ecc.mp3"
 season: 3
